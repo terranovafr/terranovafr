@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate AI/ML Researcher from Pune Italy  🇮🇹</h2><br><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
   </ul>
 </div>
 
@@ -36,13 +36,15 @@ You can click the Preview link to take a look at your changes.
 
 - ☁️ I have also a keen interest in **cybersecurity**, **IoT**, and **space**. 
 
-- 💻 I have previously worked for the European Space Agency (ESA) and the Fermi National Accelerator Laboratory (Fermilab).
+- 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
 
-- 🏫 I am currently studying Artificial Intelligence and Data Engineering at the University of Pisa. 
+- 🏫 I am currently studying Artificial Intelligence and Data Engineering at the **University of Pisa**. 
 
 - 💬 Ask me about **RL, Deep Learning, ML, distributed systems**
 
 - 📫 Feel free to reach me out **terranovafr@icloud.com**
+
+- 📄 Know about my experiences reading my <a href="" target="blank">Resume</a>
 
 <!--Intro end-->
 
