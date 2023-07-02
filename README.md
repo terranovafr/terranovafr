@@ -55,11 +55,11 @@ You can click the Preview link to take a look at your changes.
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="center" border="none">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=terranovaa&theme=dark&show_icons=true&count_private=true" />
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" border="none">
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=terranovaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I've learnt to use👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -89,7 +89,7 @@ You can click the Preview link to take a look at your changes.
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with my profiles!🤝</h2></summary>
   </ul>
 </div>
 
