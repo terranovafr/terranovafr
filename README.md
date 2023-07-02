@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate AI/ML Researcher from Italy 🇮🇹</h2><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate AI/ML Researcher from Italy 🇮🇹</h2><br><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
   </ul>
 </div>
 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Feel free to reach me out **terranovafr@icloud.com**
 
-- 📄 Know about my experiences reading my <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf" target="blank"><cv</a>
+- 📄 Know about my experiences reading my <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf" target="blank">CV</a>
 
 <!--Intro end-->
 
