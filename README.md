@@ -24,17 +24,19 @@ You can click the Preview link to take a look at your changes.
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate AI/ML Researcher from Italy 🇮🇹</h2><br><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
+    <summary><h2 style="display: inline-block">AI/ML PhD from Italy based in France🇮🇹🇫🇷</h2><br><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Reinforcement Learning for a self-driving telescope** with **Fermilab, UChicago, Deep Skies Lab, University of Pisa**
+- 🔭 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**
 
-- 🌱 I’m currently learning and expanding my knowledge on **reinforcement learning** and **deep learning**.
+- 📚 I have a maaster's degree in AI and Data Engineering from the **University of Pisa**
 
-- ☁️ I have also a keen interest in **cybersecurity**, **IoT**, and **space**. 
+- 🌱 I’m currently learning and expanding my knowledge on **reinforcement learning**, **representation learning** and **deep learning**.
+
+- ☁️ I have also a keen interest in **IoT** and **space**. 
 
 - 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
 
