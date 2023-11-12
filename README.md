@@ -40,8 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
 
-- 🏫 I am currently studying Artificial Intelligence and Data Engineering at the **University of Pisa**. 
-
 - 💬 Ask me about **RL, Deep Learning, ML, distributed systems**
 
 - 📫 Feel free to reach me out **terranovafr@icloud.com**
