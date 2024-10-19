@@ -21,19 +21,19 @@
 <!--Intro end-->
 <div align="center">
   <a href="http://terranovafr.github.io">
-    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 5px;">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 10px 20px;">
       Website
     </button>
   </a>
   
   <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf">
-    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 5px;">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 10px 20px;">
       CV
     </button>
   </a>
   
   <a href="mailto:franco.terranova@inria.fr">
-    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 5px;">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 10px 20px;">
       E-mail
     </button>
   </a>
