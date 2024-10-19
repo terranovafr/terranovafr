@@ -25,18 +25,22 @@
       Website
     </button>
   </a>
-  
+  </div>
+<div align="center">
   <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf">
     <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 10px 20px;">
       CV
     </button>
   </a>
-  
+  </div>
+<div align="center">
   <a href="mailto:franco.terranova@inria.fr">
     <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 10px 20px;">
       E-mail
     </button>
   </a>
+</div>
+<div align="center">
 <!--profile visit count-->
 
   
