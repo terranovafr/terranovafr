@@ -1,7 +1,4 @@
-<!---
-terranovaa/terranovaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,93 +11,22 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">AI/ML PhD from Italy based in France🇮🇹🇫🇷</h2><br><h2 style="display: inline-block">Intelligent Automation Enthusiast</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
-- 🤖 I’m currently a PhD Student in **Reinforcement Learning for Cybersecurity** with **INRIA, Université de Lorraine**
+- 🤖 I’m currently a PhD Student focusing on **Deep Reinforcement Learning for Cyber-Attack Paths Discovery** within the **INRIA Center** of the **Université de Lorraine**.
 
-- 📚 I have a maaster's degree in AI and Data Engineering from the **University of Pisa**
+- 📚 I have a master's degree in AI and Data Engineering from the **University of Pisa**.
 
-- 🌱 I’m currently learning and expanding my knowledge on **reinforcement learning**, **representation learning** and **deep learning**.
-
-- ☁️ I have also a keen interest in **IoT** and **space**. 
-
-- 💻 I have previously worked for the European Space Agency (**ESA**) and the Fermi National Accelerator Laboratory (**Fermilab**).
-
-- 💬 Ask me about **RL, Deep Learning, ML, distributed systems**
-
-- 📫 Feel free to reach me out **terranovafr@icloud.com**
-
-- 📄 Know about my experiences reading my <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf" target="blank">CV</a>
-
+- 💻 I have previously joined the European Space Agency (**ESA**), the University of Waterloo, and the Fermi National Accelerator Laboratory (**Fermilab**) for internships and research visiting periods.
+- 🌱 I’m currently expanding my knowledge on deep reinforcement learning, representation learning and cybersecurity.
 <!--Intro end-->
 
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center" border="none">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=terranovaa&theme=dark&show_icons=true&count_private=true" />
-</td>
-
-<td width="50%" align="center" border="none">
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=terranovaa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I've learnt to use👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,github,html,js,latex,mongodb,mysql,php,py,pytorch,r,rabbitmq,raspberrypi,react,tensorflow&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with my profiles!🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/franco-terranova-1092b316a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
-</p>
-
+<div align="center">
+<a href="http://terranovafr.github.io" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Website</a>
+<a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">CV</a>
+<a href="mailto:franco.terranova@inria.fr" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">E-mail</a>
 
 <!--profile visit count-->
-<div align="center">
+
   
 [![](https://visitcount.itsvg.in/api?id=Terranova&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
