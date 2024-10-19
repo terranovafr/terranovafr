@@ -19,12 +19,24 @@
 - 💻 I have previously joined the European Space Agency (**ESA**), the University of Waterloo, and the Fermi National Accelerator Laboratory (**Fermilab**) for internships and research visiting periods.
 - 🌱 I’m currently expanding my knowledge on deep reinforcement learning, representation learning and cybersecurity.
 <!--Intro end-->
-
 <div align="center">
-<a href="http://terranovafr.github.io" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Website</a>
-<a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">CV</a>
-<a href="mailto:franco.terranova@inria.fr" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">E-mail</a>
-
+  <a href="http://terranovafr.github.io">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 5px;">
+      Website
+    </button>
+  </a>
+  
+  <a href="https://github.com/terranovaa/terranovaa/blob/main/CV.pdf">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 5px;">
+      CV
+    </button>
+  </a>
+  
+  <a href="mailto:franco.terranova@inria.fr">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; cursor: pointer; margin: 5px;">
+      E-mail
+    </button>
+  </a>
 <!--profile visit count-->
 
   
@@ -32,8 +44,6 @@
   
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
